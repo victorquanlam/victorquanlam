@@ -39,6 +39,8 @@
 
 <img align="left" alt="Victor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorquanlam&show_icons=true&hide_border=true" />
 
+<br />
+
 ---
 ### My Top Language
 
