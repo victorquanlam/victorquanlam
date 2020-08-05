@@ -38,7 +38,7 @@
 
 <img align="left" alt="Victor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorquanlam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=prs,contribs" />
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://victorprofilio.herokuapp.com)
 
 [website]: https://victorprofilio.herokuapp.com
 [linkedin]: https://linkedin.com/in/victorquanlam
