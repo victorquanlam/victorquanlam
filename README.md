@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor Quan Lam 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Developer and Student!
 - 🔭 I’m currently working at [VCS Digital Health][https://www.vcs.org.au/digital-health/]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Good at ASP.Net Core
