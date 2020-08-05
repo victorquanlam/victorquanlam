@@ -3,7 +3,7 @@
 ## I'm a Developer and Student!
 - 🔭 I’m currently working at [VCS Digital Health][website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Good at ASP.Net Core
+- 🥅 2020 Goals: become skilled at ASP.Net Core
 - ⚡ Fun fact: I love gaming but don't play games
 
 ### Connect with me:
