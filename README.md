@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor Quan Lam 👋
 
-## I'm a Developer and Student!
+## I'm a Developer and Computer Science Student!
 - 🔭 I’m currently working at [VCS Digital Health][vcs]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: become skilled at ASP.Net Core
