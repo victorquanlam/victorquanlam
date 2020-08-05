@@ -45,7 +45,7 @@
 ---
 ### My Stats
 
-<img align="left" alt="Victor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorquanlam&show_icons=true&hide_border=true" />
+<img align="left" alt="Victor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorquanlam&show_icons=true&theme=radical&hide_border=true" />
 
 
 
