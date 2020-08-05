@@ -37,7 +37,7 @@
 ---
 ### My Top Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorquanlam)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorquanlam&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
@@ -45,7 +45,7 @@
 ---
 ### My Stats
 
-<img align="left" alt="Victor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorquanlam&show_icons=true&theme=radical&hide_border=true" />
+<img align="left" alt="Victor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorquanlam&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
 
 
