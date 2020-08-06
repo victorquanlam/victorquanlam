@@ -1,5 +1,6 @@
 
 ### Hi there, I'm Victor Quan Lam 👋
+[<img src="https://raw.githubusercontent.com/victorquanlam/victorquanlam/master/intro.gif" alt="👋 Hi there! I'm Victor Quan Lam" title="👋 Hi there! I'm (Victor(Lam|Quan Lam)|https://victorquanlam.com)"/>](https://victorquanlam.com/)
 
 ## I'm a Developer and Computer Science Student!
 - 🔭 I’m currently working at [VCS Digital Health][vcs]!
