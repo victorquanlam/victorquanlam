@@ -38,7 +38,7 @@
 ---
 
 <a href="https://github.com/victorquanlam/victorquanlam">
-<img align="left" alt="Victor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorquanlam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=prs,contribs" />
+<img align="left" alt="Victor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorquanlam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </a>
 
 
