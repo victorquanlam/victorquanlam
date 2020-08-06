@@ -36,13 +36,14 @@
 <br />
 
 ---
+
 <a href="https://github.com/victorquanlam/victorquanlam">
 <img align="left" alt="Victor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorquanlam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=prs,contribs" />
 </a>
 
 
 <a href="https://github.com/victorquanlam/victorquanlam">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://victorprofilio.herokuapp.com)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
 </a>
 
 [website]: https://victorprofilio.herokuapp.com
