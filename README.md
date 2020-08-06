@@ -43,7 +43,7 @@
 
 
 <a href="https://github.com/victorquanlam/victorquanlam">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight" />
 </a>
 
 [website]: https://victorprofilio.herokuapp.com
