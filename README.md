@@ -2,9 +2,9 @@
 [<img src="https://raw.githubusercontent.com/victorquanlam/victorquanlam/master/intro.gif" alt="👋 Hi there! I'm Victor Quan Lam" title="👋 Hi there! I'm (Victor(Lam|Quan Lam)|https://victorquanlam.com)"/>](https://victorquanlam.com/)
 
 ## I'm a Developer and Computer Science Student!
-- 🔭 I’m currently working at [VCS Digital Health][vcs]!
+- 🔭 I’m currently freelancing on Fiverr
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: become skilled at ASP.Net Core
+- 🥅 2021 Goals: become skilled at Mern stack
 - ⚡ Fun fact: I love gaming but don't play games
 
 ### Connect with me:
