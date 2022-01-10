@@ -46,6 +46,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight" />
 </a>
 
-[website]: https://victorprofilio.herokuapp.com
+[website]: https://victorquanlam.com
 [linkedin]: https://linkedin.com/in/victorquanlam
-[vcs]: https://www.vcs.org.au/digital-health/
