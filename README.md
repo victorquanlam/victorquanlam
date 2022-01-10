@@ -4,7 +4,7 @@
 ## I'm a Developer and Computer Science Student!
 - 🔭 I’m currently freelancing on Fiverr
 - 🌱 I’m pursuing my Master degree at ASU
-- 🥅 2021 Goals: become skilled at Mern stack
+- 🥅 2022 Goals: become skilled at Mern stack
 - ⚡ Fun fact: I love gaming but don't play games
 
 ### Connect with me:
