@@ -1,11 +1,11 @@
 
 [<img src="https://raw.githubusercontent.com/victorquanlam/victorquanlam/master/intro.gif" alt="👋 Hi there! I'm Victor Quan Lam" title="👋 Hi there! I'm (Victor(Lam|Quan Lam)|https://victorquanlam.com)"/>](https://victorquanlam.com/)
 
-## I'm a Developer and Computer Science Student!
+## I'm a Full Stack Developer!
 - 🔭 I’m currently freelancing on Fiverr
 - 🌱 I’m pursuing my Master degree at ASU
-- 🥅 2022 Goals: become skilled at Mern stack
-- ⚡ Fun fact: I love gaming but don't play games
+- 🥅 2022 Goals: get AwS and Azure developer certs
+- ⚡ Fun fact: I'm a crypto fan boi
 
 ### Connect with me:
 
