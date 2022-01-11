@@ -5,7 +5,7 @@
 - 🔭 I’m currently freelancing on Fiverr
 - 🌱 I’m pursuing my Master degree at ASU
 - 🥅 2022 Goals: get AwS and Azure developer certs
-- ⚡ Fun fact: I'm a crypto fan boi
+- ⚡ My blog posts: https://dev.to/victorquanlam
 
 ### Connect with me:
 
